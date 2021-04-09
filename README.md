@@ -1,6 +1,6 @@
 ### Hi there 👋
-
-## Donations
+---
+#### Donations
 ***Donations help keep my  projects maintained***
 
 WAX: `dgnrc.wam`
