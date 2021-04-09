@@ -1,5 +1,7 @@
 ### Hi there 👋
 ---
+#### Do you need a custom bot for Reddit, Discord or any blockchain? Message me at `anonieXdev(at)protonmail.com`.
+---
 #### Donations
 ***Donations help keep my  projects maintained***
 
