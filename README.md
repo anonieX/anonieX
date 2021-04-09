@@ -1,16 +1,18 @@
 ### Hi there 👋
 
-<!--
-**anonieX/anonieX** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Donations
+***Donations help keep my  projects maintained***
 
-Here are some ideas to get you started:
+WAX: `dgnrc.wam`
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+BTC: `bc1q7phv0kg5ukzcz0tqhwpld6zk0s49g5mglvrlna`
+
+ETH: `0x39473DAd80A08e8f840B2F11f8BC750BFaBc1AE9`
+
+TRX: `TJpyRcMTJvTouWtqoZBMG2ZPNeLRo9xFho`
+
+ADA: `addr1qx3d2fd4maxtkz234fkglwuev4d3rnzmpespxewyttnnwr4z65jmth6vhvy4r2nv37aeje2mz8x9krnqzdjugkh8xu8qxde7kp`
+
+DOGE: `D78Ekkfr1RdRRyodyqv4KWH3Lji6nRH9qT`
+
+NANO: `nano_1ews9xhasm87ifuw84ddeoesjrufk95fmdyaf9yucaonpoo3dbmumermjkpm`
