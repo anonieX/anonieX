@@ -1,5 +1,4 @@
 ### Hi there 👋
-![](https://komarev.com/ghpvc/?username=anonieX&color=grey&style=flat-square)
 
 ---
 #### Do you need a custom bot for Reddit, Discord or any blockchain? Message me at `anonieXdev(at)protonmail.com`.
